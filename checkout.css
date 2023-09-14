@@ -29,3 +29,7 @@
 body {
     padding-top: 70px; /* slightly more than the navbar's height to give some space */
 }
+#home {
+    padding-top: 60px;    /* Push the content down by the height of the navbar */
+    margin-top: -60px;    /* Pull the container up by the same amount */
+}

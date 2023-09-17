@@ -33,3 +33,6 @@ body {
     padding-top: 60px;    /* Push the content down by the height of the navbar */
     margin-top: -60px;    /* Pull the container up by the same amount */
 }
+  .rounded-carousel-image {
+    border-radius: 15px;  /* You can adjust this value as per your preference */
+  }
